@@ -1,0 +1,28 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "A node application server to hanle requests from the zookeepr website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sithSlave/zookeepr.git"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "js"
+  ],
+  "author": "Josh M",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sithSlave/zookeepr/issues"
+  },
+  "homepage": "https://github.com/sithSlave/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

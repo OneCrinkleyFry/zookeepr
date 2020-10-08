@@ -59,6 +59,24 @@
       "age": 64,
       "favoriteAnimal": "Rabbit",
       "id": "9"
+    },
+    {
+      "name": "George",
+      "age": 21,
+      "favoriteAnimal": "Tiger",
+      "id": "10"
+    },
+    {
+      "name": "Benny",
+      "age": 34,
+      "favoriteAnimal": "Moose",
+      "id": "11"
+    },
+    {
+      "name": "Geoff",
+      "age": 98,
+      "favoriteAnimal": "Wooly Mammoth",
+      "id": "12"
     }
   ]
 }
